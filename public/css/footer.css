@@ -1,0 +1,34 @@
+/* footer */
+
+footer{
+    background-color: white; 
+    padding-bottom: 20px;   
+}
+
+footer section.info{
+    text-align: center;
+    font-family: var(--fontFamily);
+    font-size: 12px;
+    color: var(--colorGrisOscuro);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+footer section article h4{
+    font-size: 16px;
+    padding-top: 50px;
+}
+
+footer section article i{
+    display: inline-block;
+    width: 100%;
+    height: 150%;
+    color: var(--colorCeleste);
+
+}
+
+footer section article p.copyright{
+    padding-top: 20px;
+    
+}
+
